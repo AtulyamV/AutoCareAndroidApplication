@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1014218312838",
+    "firebase_url": "https://autocaremobileapp.firebaseio.com",
+    "project_id": "autocaremobileapp",
+    "storage_bucket": "autocaremobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014218312838:android:b4d761cabf49b1a5",
+        "android_client_info": {
+          "package_name": "com.mobile.autocare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014218312838-tjvhidkvleu3ote0dsk5p5h2q8ujqs5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ubt3rs-v49iqxkd_ijo3FWNcXlD7aNU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
